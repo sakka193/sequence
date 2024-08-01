@@ -110,7 +110,7 @@ class GPScontroller():
                         joinlan, joinlon = joinlan / (256 * 3600), joinlon / (256 * 3600)
                         print(f"緯度 : {joinlan:.5f} 経度 : {joinlon:.5f}")
                     else:
-                        print("中身ないよ")
+                        print("中身なし")
                     listdata.clear()
 
     #チェックサムの計算

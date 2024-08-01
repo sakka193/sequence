@@ -2,7 +2,7 @@ import serial
 import time
 import serial.tools.list_ports
 import threading
-
+#ytttreiuyteithiuegiuerh
 bGPSinit = 0
 bGPSsokuidata = 0
 GPStimer = None
